@@ -9,6 +9,7 @@
 | 章节 | 简介 | 资料 |
 |-----|-----|-----|
 |01. AR简介|AR技术介绍以及课程主要内容介绍|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Ch01_AR简介/01-AR简介.pdf)|
+|02. OpenGLES基础|OpenGL ES 2.0绘图基础|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Ch02_OpenGLES基础/02-OpenGLES基础.pdf)  [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Task1](/Ch02_OpenGLES基础/Android源生AR应用开发实验手册（01）.pdf)  [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Task2](/Ch02_OpenGLES基础/Android源生AR应用开发实验手册（02）.pdf)|
 
 &nbsp;
 
