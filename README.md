@@ -14,6 +14,8 @@
 |04. 3D图形绘制|3D坐标转换、MV变换、投影变换、视口变换|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Ch04_3D图形绘制/04-3D图形绘制.pdf)  [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Ch04_3D图形绘制/Android源生AR应用开发实验手册（04）.pdf)|
 |05. 纹理贴图|纹理贴图的方式及使用方法|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Ch05_纹理贴图/05-纹理贴图.pdf) [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Ch05_纹理贴图/Android源生AR应用开发实验手册（05）.pdf)|
 |06. Vuforia介绍|介绍Vuforia SDK|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Ch06_Vuforia介绍/06-Vuforia介绍.pdf)|
+|07. Vuforia示例分析|分析官方示例的启动过程|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Ch07_Vuforia源码分析/VuforiaDemoStart.pdf)|
+
 
 &nbsp;
 
