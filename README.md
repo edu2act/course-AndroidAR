@@ -15,8 +15,8 @@
 |05. 纹理贴图|纹理贴图的方式及使用方法|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Ch05_纹理贴图/05-纹理贴图.pdf) [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Ch05_纹理贴图/Android源生AR应用开发实验手册（05）.pdf)|
 |06. 3D模型加载及展示|加载.obj3D模型文件方法及展示3D模型|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Ch06_3D模型加载及展示/Android源生AR应用开发实验手册（06）.pdf)|
 |07. Vuforia介绍|介绍Vuforia SDK|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Ch07_Vuforia介绍/07-Vuforia介绍.pdf)|
+|08. Vuforia官方示例|官方示例的运行讲解|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Ch08_Vuforia官方示例/Android源生AR应用开发实验手册（07）.pdf)|
 |09. Vuforia示例分析|分析官方示例的启动过程|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Ch09_Vuforia源码分析/VuforiaDemoStart.pdf)|
-
 
 &nbsp;
 
