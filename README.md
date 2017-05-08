@@ -17,6 +17,8 @@
 |07. Vuforia介绍|介绍Vuforia SDK|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Ch07_Vuforia介绍/07-Vuforia介绍.pdf)|
 |08. Vuforia官方示例|官方示例的运行讲解|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Ch08_Vuforia官方示例/Android源生AR应用开发实验手册（07）.pdf)|
 |09. Vuforia示例分析|分析官方示例的启动过程|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Ch09_Vuforia源码分析/VuforiaDemoStart.pdf)|
+|10. Vuforia项目编写|根据Vuforia示例编写AR项目|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Ch10_Vuforia项目编写/Android源生AR应用开发实验手册（08）.pdf)|
+
 
 &nbsp;
 
